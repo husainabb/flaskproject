@@ -1,0 +1,13 @@
+flask
+flask_sqlalchemy
+sqlalchemy<1.4
+flask_wtf
+wtforms
+email_validator
+flask_bcrypt
+flask_login
+Jinja2
+pytest
+pytest-cov
+flask-testing
+Werkzeug

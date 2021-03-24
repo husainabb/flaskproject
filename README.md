@@ -12,7 +12,7 @@ Testing for the application
 Code fully integrated into github built through a CI server and deployed to GCP
 
 ## My Trello Board
-![Trello board]((https://user-images.githubusercontent.com/79215061/112377922-32edb680-8cde-11eb-929c-cdc9f9a17781.png))
+![image]((https://user-images.githubusercontent.com/79215061/112377922-32edb680-8cde-11eb-929c-cdc9f9a17781.png))
 
 
 ## Testing
